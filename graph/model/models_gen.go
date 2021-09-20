@@ -2,19 +2,13 @@
 
 package model
 
-type NewTodo struct {
-	Text   string `json:"text"`
-	UserID string `json:"userId"`
-}
-
-type Todo struct {
-	ID   string `json:"id"`
-	Text string `json:"text"`
-	Done bool   `json:"done"`
-	User *User  `json:"user"`
-}
-
-type User struct {
-	ID   string `json:"id"`
+type GetOperatorInput struct {
 	Name string `json:"name"`
+}
+
+type Operator struct {
+	Name      string   `json:"name"`
+	Class     string   `json:"class"`
+	Rarity    int      `json:"rarity"`
+	Available []string `json:"available"`
 }
