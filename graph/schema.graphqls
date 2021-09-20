@@ -1,28 +1,18 @@
-# GraphQL schema example
-#
-# https://gqlgen.com/getting-started/
 
-type Todo {
-  id: ID!
-  text: String!
-  done: Boolean!
-  user: User!
+type Operator {
+	name: String!
+	class: String!
+	rarity: Int!
+  # Servers available to Operator (e.g. ["CN", "Global"])
+	available: [String!]! 
 }
 
-type User {
-  id: ID!
-  name: String!
+input GetOperatorInput {
+	name: String!
 }
 
 type Query {
-  todos: [Todo!]!
+  operators: [Operator!]!
+	operator(input: GetOperatorInput): Operator
 }
 
-input NewTodo {
-  text: String!
-  userId: String!
-}
-
-type Mutation {
-  createTodo(input: NewTodo!): Todo!
-}
