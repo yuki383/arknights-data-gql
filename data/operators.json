@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "Castle-3",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 1
+  },
+  {
+    "name": "Lancet-2",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 1
+  },
+  {
+    "name": "THRM-EX",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 1
+  },
+  {
+    "name": "ヤトウ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 2
+  },
+  {
+    "name": "ノイルホーン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 2
+  },
+  {
+    "name": "レンジャー",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 2
+  },
+  {
+    "name": "12F",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 2
+  },
+  {
+    "name": "ドゥリン",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 2
+  },
+  {
+    "name": "バニラ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "フェン",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "プリュム",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "ポプカル",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "ミッドナイト",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "メランサ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "スポット",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "ビーグル",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "アドナキエル",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "カタパルト",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "クルース",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "スチュワード",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "ラヴァ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "アンセル",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "ハイビスカス",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "オーキッド",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 3
+  },
+  {
+    "name": "ヴィグナ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "クーリエ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "スカベンジャー",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "テンニンカ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ビーンストーク",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "アレーン",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ウタゲ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "エステル",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "カッター",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "コンビクション",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ジャッキー",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ドーベルマン",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ビーハンター",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "フロストリーフ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "マトイマル",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ムース",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "クオーラ",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "グム",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ジュナー",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "バブル",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "マッターホルン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "アシッドドロップ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "アンブリエル",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ヴァーミル",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ジェシカ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "シラユキ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "パインコーン",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "メイ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "メテオ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "カシャ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ギターノ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "グレイ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ヘイズ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ガヴィル",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "セイリュウ",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ススーロ",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "パフューマー",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ミルラ",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "アーススピリット",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ディピカ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ポデンコ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "イーサン",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "グラベル",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ショウ",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ジェイ",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "ロープ",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 4
+  },
+  {
+    "name": "エリジウム",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "キアーベ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "グラニ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ズィマー",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "テキサス",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "リード",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "Tachanka",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アステシア",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アーミヤ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "インドラ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ウィスラッシュ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "エアースカーペ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "エンカク",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "サベージ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "シデロカ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "スペクター",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "スワイヤー",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "バイビーク",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "フランカ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "フリント",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ブローカ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ラップランド",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "Blitz",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アスベストス",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ウン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ヴァルカン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "クロワッサン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ニアール",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "バイソン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "リスカム",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アオスタ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アズリウス",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アンドレアナ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "イグゼキュター",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "エイプリル",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "グレースロート",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "シェーシャ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ファイヤーウォッチ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "プラチナ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "プロヴァンス",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "メテオリーテ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アーミヤ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アイリス",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "アブサント",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "炎獄ラヴァ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "スカイフレア",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "トミミ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ナイトメア",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ビーズワクス",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ミント",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "レイズ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "レオンハルト",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ウィスパーレイン",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "サイレンス",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "セイロン",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "トゥイエ",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "フィリオプシス",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "フォリニック",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ブリーズ",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ワルファリン",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "イースチナ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "グラウコス",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "シャマレ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "シーン",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ソラ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ツキノギ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "グラウコス",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "プラマニクス",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "メイヤー",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "Frost",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ウユウ",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "エフイーター",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "カフカ",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "クリフハート",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "スノーズント",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "マンティコア",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "レッド",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ロビン",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "ワイフー",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 5
+  },
+  {
+    "name": "サガ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "シージ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "バグパイプ",
+    "class": "先鋒",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "シルバーアッシュ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "スカジ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "スルト",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ソーンズ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "チェン",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ブレイズ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ヘラグ",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "マウンテン",
+    "class": "前衛",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "サリア",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ニェン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ブレミシャイン",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ホシグマ",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "マドロック",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ユーネクテス",
+    "class": "重装",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "Ash",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "W",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "アルケット",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "エクシア",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "シュヴァルツ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ロスモンティス",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ロサ",
+    "class": "狙撃",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "イフリータ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "エイヤフィヤトラ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ケオベ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "シー",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "モスティマ",
+    "class": "術師",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "シャイニング",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ナイチンゲール",
+    "class": "医療",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "アンジェリーナ",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "スズラン",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "マゼラン",
+    "class": "補助",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ア",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ウィーディ",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  },
+  {
+    "name": "ファントム",
+    "class": "特殊",
+    "available": ["CN", "Global"],
+    "rarity": 6
+  }
+]
