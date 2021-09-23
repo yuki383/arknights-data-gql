@@ -3,7 +3,10 @@
 package model
 
 type GetOperatorInput struct {
-	Name string `json:"name"`
+	Name      *string  `json:"name"`
+	Class     *string  `json:"class"`
+	Rarity    []int    `json:"rarity"`
+	Available []string `json:"available"`
 }
 
 type Operator struct {

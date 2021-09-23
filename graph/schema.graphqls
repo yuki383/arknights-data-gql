@@ -8,11 +8,13 @@ type Operator {
 }
 
 input GetOperatorInput {
-	name: String!
+	name: String
+	class: String
+	rarity: [Int!]
+	available: [String!]
 }
 
 type Query {
-  operators: [Operator!]!
-	operator(input: GetOperatorInput): Operator
+	operators(input: GetOperatorInput = {}): [Operator!]!
 }
 
